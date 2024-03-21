@@ -26,9 +26,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/风凰香港.png",风凰香港
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/风凰中文.png",风凰中文
-http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+http://39.134.18.196:80/wh7f454c46tw2172490011_-1360941031/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8?icpid=88888890&RTS=1707328982&from=20&ocs=2_111.20.45.169_80&hms_devid=8368&online=1707328982&vqe=3
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/风凰资讯.png",风凰资讯
-http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+http://39.134.18.196:80/wh7f454c46tw2280983051_-1501544638/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8?icpid=88888890&RTS=1707329090&from=20&ocs=2_111.20.45.166_80&hms_devid=8368&online=1707329090&vqe=3
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
@@ -60,11 +60,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
