@@ -6,4 +6,4 @@
 
 `https://ghproxy.net/`
 
-`https://ghfast.top/`
+
