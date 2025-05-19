@@ -5,3 +5,5 @@
 `https://ghfast.top/`
 
 `https://ghproxy.net/`
+
+`https://ghfast.top/`
